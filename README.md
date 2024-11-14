@@ -134,7 +134,7 @@ Para determinar a quantidade ideal de clusters (K), utilizei o método do cotove
 
 # 6. Resultado do modelo
 
-O modelo **K-Means** apresentou o melhor Silhouette Score de **0.59**, indicando uma boa separação entre os clusters. Em conjunto com a análise gráfica, constatamos que esse modelo obteve a melhor configuração de clusters, levando à escolha de K igual a 7 como a quantidade ideal para segmentação.
+O modelo **K-Means** apresentou o melhor Silhouette Score de **0.59**, indicando uma boa separação entre os clusters. Em conjunto com a análise gráfica, constatou-se que esse modelo obteve a melhor configuração de clusters, levando à escolha de K igual a 7 como a quantidade ideal para segmentação.
 
 ![image](https://github.com/user-attachments/assets/b5a9c9d3-e179-4082-9df6-d2a8157e795a)
 
