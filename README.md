@@ -105,11 +105,11 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 
 ![image](https://github.com/user-attachments/assets/a31aef7b-2b87-4545-805e-e75d47422fbb)
 
-### A maior parte das pessoas tem entre 25 e 44 anos, estando concentradas principalmente no cluster 1 (que como mencionado anteriormente é o que mais gera receita).
+### A maioria das pessoas tem entre 25 e 44 anos, com uma concentração especialmente significativa no Cluster 1, que, conforme mencionado anteriormente, é o que gera maior receita.
 
 ![image](https://github.com/user-attachments/assets/6de13095-fd82-44b6-b6fe-737e03c5eac1)
 
-### A renda do cliente (se é alta, média ou baixa renda) aparentemente está relacionada com a quantidade de receita (gastos) por cluster. Os clusters com renda mais alta, geram mais receita.
+### A renda do cliente (alta, média ou baixa) parece estar diretamente relacionada à quantidade de receita gerada em cada cluster. Os clusters com maior renda tendem a gerar maiores volumes de receita.
 
 ![image](https://github.com/user-attachments/assets/f196ca71-8aef-4efb-b51e-734445a282f0)
 
