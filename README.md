@@ -137,7 +137,6 @@ O modelo **K-Means** apresentou o melhor Silhouette Score de **0.59**, indicando
 
 # 7. Análise Final dos Clusters
 
-## Produto Mais Consumido
 O **Vinho** é o produto mais consumido por todos os clusters. 
 
 Todos os clusters preferem comprar em lojas físicas.
