@@ -103,8 +103,7 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 
 ### Neste gráfico podemos identificar qual cluster mais gera receita (Cluster 1)
 
-
-![image](https://github.com/user-attachments/assets/c50ed561-77f4-4a25-8857-7556b3a1b105)
+![image](https://github.com/user-attachments/assets/c2fd6537-246f-4bf4-9678-c83073d3fb5f)
 
 
 ### A maioria das pessoas tem entre 25 e 44 anos, com uma concentração especialmente significativa no Cluster 1, que, conforme mencionado anteriormente, é o que gera maior receita.
@@ -115,7 +114,8 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 
 ### A renda do cliente (alta, média ou baixa) parece estar diretamente relacionada à quantidade de receita gerada em cada cluster. Os clusters com maior renda tendem a gerar maiores volumes de receita.
 
-![image](https://github.com/user-attachments/assets/a31aef7b-2b87-4545-805e-e75d47422fbb)
+![image](https://github.com/user-attachments/assets/b0b24f6a-85d3-40c0-8870-9fe8162536a4)
+
 
 
 # 5. Machine Learning Model
