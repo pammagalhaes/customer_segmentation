@@ -104,6 +104,7 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 ### Neste gráfico podemos identificar qual cluster mais gera receita (Cluster 1)
 
 
+![image](https://github.com/user-attachments/assets/c50ed561-77f4-4a25-8857-7556b3a1b105)
 
 
 ### A maioria das pessoas tem entre 25 e 44 anos, com uma concentração especialmente significativa no Cluster 1, que, conforme mencionado anteriormente, é o que gera maior receita.
