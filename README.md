@@ -115,7 +115,7 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 
 
 # 5. Machine Learning Model
-Após a preparação dos dados, foram desenvolvidos e treinados três modelos de Aprendizado de Máquina para identificar o algoritmo mais eficaz em descrever e resolver o problema proposto:
+Após a preparação dos dados, foram desenvolvidos e treinados três modelos de Aprendizado de Máquina para identificar o algoritmo mais eficaz em resolver o problema proposto:
 
 **K-means**
 
