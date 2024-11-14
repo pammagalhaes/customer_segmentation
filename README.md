@@ -102,10 +102,16 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 # 4. To 3 Insights
 
 ### Neste gráfico podemos identificar qual cluster mais gera receita (Cluster 1)
-https://github.com/pammagalhaes/customer_segmentation/blob/bba13a84c97dea87e6e3ed17e18ff50fd6773258/spent.png
+
+![image](https://github.com/user-attachments/assets/a31aef7b-2b87-4545-805e-e75d47422fbb)
+
 ### A maior parte das pessoas tem entre 25 e 44 anos, estando concentradas principalmente no cluster 1 (que como mencionado anteriormente é o que mais gera receita).
 
-### A renda do cliente (se é alta, média ou baixa renda) aparentemente está correlacionada com a quantidade de receita (gastos) por cluster. Os clusters com renda mais alta, geram mais receita.
+![image](https://github.com/user-attachments/assets/6de13095-fd82-44b6-b6fe-737e03c5eac1)
+
+### A renda do cliente (se é alta, média ou baixa renda) aparentemente está relacionada com a quantidade de receita (gastos) por cluster. Os clusters com renda mais alta, geram mais receita.
+
+![image](https://github.com/user-attachments/assets/f196ca71-8aef-4efb-b51e-734445a282f0)
 
 
 # 5. Machine Learning Model
@@ -119,10 +125,15 @@ Após a preparação dos dados, foram desenvolvidos e treinados três modelos de
 
 Para determinar a quantidade ideal de clusters (K), utilizei o método do cotovelo (Elbow Method), que permite identificar o ponto de equilíbrio entre o número de clusters e a variabilidade dentro dos grupos. Além disso, apliquei o índice de silhueta (Silhouette Score) não apenas para validar o número ideal de clusters, mas também para avaliar a qualidade da clusterização, verificando o quão bem os dados foram agrupados pelo modelo.
 
+![image](https://github.com/user-attachments/assets/1991a5f5-25a7-4375-bff2-c6717b6d168e)
+
 
 # 6. Resultado do modelo
 
 O modelo **K-Means** apresentou o melhor Silhouette Score de **0.59**, indicando uma boa separação entre os clusters. Em conjunto com a análise gráfica, constatamos que esse modelo obteve a melhor configuração de clusters, levando à escolha de K igual a 7 como a quantidade ideal para segmentação.
+
+![image](https://github.com/user-attachments/assets/b5a9c9d3-e179-4082-9df6-d2a8157e795a)
+
 
 # 7. Análise Final dos Clusters
 
