@@ -99,7 +99,7 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 
 10 - Modelo em Produção: Por fim, o modelo avaliado é publicado (Deploy). Neste caso não foi feito um deploy do modelo, porém esse é o próximo passo.
 
-# 4. To 3 Insights
+# 4. Top 3 Insights
 
 ### Neste gráfico podemos identificar qual cluster mais gera receita (Cluster 1)
 
