@@ -102,7 +102,7 @@ Para este projeto, o método CRISP-DM foi utilizado, contando com os 10 passos a
 # 4. To 3 Insights
 
 ### Neste gráfico podemos identificar qual cluster mais gera receita (Cluster 1)
-
+https://github.com/pammagalhaes/customer_segmentation/blob/bba13a84c97dea87e6e3ed17e18ff50fd6773258/spent.png
 ### A maior parte das pessoas tem entre 25 e 44 anos, estando concentradas principalmente no cluster 1 (que como mencionado anteriormente é o que mais gera receita).
 
 ### A renda do cliente (se é alta, média ou baixa renda) aparentemente está correlacionada com a quantidade de receita (gastos) por cluster. Os clusters com renda mais alta, geram mais receita.
